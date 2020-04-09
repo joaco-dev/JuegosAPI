@@ -26,7 +26,7 @@ class Home extends Component{
                     <div className="col-sm-6 text-center my-1 mt-5 display-3">
                         <>
                         </>
-                        <p><strong>Bienvenido</strong></p>
+                        <p><strong>Bienvenido Cambio1</strong></p>
                         <form action ="">
                             <input type="text" className="form-control rounded-0 my-5 text-center" placeholder="Escribe tu Nombre" ></input>
                                 <button className="btn btn-block btn-outline-light rounded-0 mt-2">
